@@ -9,10 +9,12 @@
 ### Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
 
 
+[![Fuck ](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 # Benefits :-
     ✓ Telegram Torrent/Directlink leecher with its unzipping, unrar and untar
     ✓ Custom file name, thumbnail
-    ✓ Custom commands
+    ✓ Custom command
 	✓ Added /clearall command to clear the downloads which are not deleted automatically.
 	✓ Added support for youtube playlist ( use /pytdl )
 
