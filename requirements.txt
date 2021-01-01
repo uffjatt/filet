@@ -4,5 +4,5 @@ hachoir
 Pillow
 https://github.com/Mahesh0253/pyrogram/archive/asyncio.zip
 tgcrypto
-git+git://github.com/FaArIsH/youtube-dl.git
+
 hurry.filesize
